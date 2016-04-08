@@ -12,9 +12,12 @@
 .icon-block .material-icons {
 	font-size: inherit;
 }
-#front-page-logo {
-  display: inline-block;
-  height: 100%;
-  padding: 7px;
-  pointer-events: none; 
+div#front_page_logo {
+	height:200px;
+}
+div#front_page_logo img {
+	display: block;
+	height:inherit;
+	margin-left: auto;
+    margin-right: auto;
 }
